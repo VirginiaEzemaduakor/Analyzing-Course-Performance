@@ -24,7 +24,6 @@ As the course catalogue grows, it becomes more difficult to rely purely on quali
   
 ### Data organization and process
 Three csv files were provided: a file with course and lesson ID numbers, a file with net promoter scores (NPS), and a file with lesson completion rates. The primary limitation of the report is the quality of the data. Each file contains lessons that are missing in the others. I chose to limit the report to lessons that only occur across all three files.
-This project made use of DB Browser for SQLite to handle the databases and were queried with different codes to obtain insights necessary to increase donations.
 
  
                
