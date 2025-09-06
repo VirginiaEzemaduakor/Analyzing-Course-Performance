@@ -1,5 +1,5 @@
 # Analyzing-Course-Performance
-![Alt text](images/acp_report.png)
+![Alt text](images/Dashboard.PNG)
 
 ## Table of contents
 - [Introduction](#introduction)
