@@ -1,5 +1,5 @@
 # Analyzing-Course-Performance
-![Alt text](images/Dashboard.PNG)
+![Alt text](image/Dashboard.PNG)
 
 ## Table of contents
 - [Introduction](#introduction)
@@ -42,13 +42,13 @@ Three CSV files were provided: one mapping course and lesson IDs, one with Net P
 - Course ID 1 achieved a **100% completion rate**, but with an **NPS of 51**, indicating completion without high satisfaction.
 
 - Course ID 164 had a **91% completion rate**, paired with a perfect *NPS of 100**, showing both engagement and high satisfaction.
-![Alt text](images/top_course.PNG)
+![Alt text](image/top_course.PNG)
 
 #### Courses Needing Attention:
 
 - Course IDs **8, 23, 89, 112, 26, 47, 37, 54, 94,** and **13** have among the **lowest completion rates** and are the **least likely to be recommended**.
 
-![Alt text](images/bottom_course.PNG)
+![Alt text](image/bottom_course.PNG)
 
 
 ## Recommendations
@@ -61,7 +61,7 @@ Focus improvements on lessons meeting any of these criteria:
 
 - Meeting both of the above thresholds
 
-![Alt text](images/lesson_completion.PNG) ![Alt text](images/lesson_nps.PNG)
+![Alt text](image/lesson_completion.PNG) ![Alt text](image/lesson_nps.PNG)
 
 
 **Data Limitations to Address**
